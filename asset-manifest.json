@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Diezia/gif-app/static/css/main.3b94cde6.css",
-    "main.js": "/Diezia/gif-app/static/js/main.736a14c4.js",
-    "index.html": "/Diezia/gif-app/index.html",
-    "main.3b94cde6.css.map": "/Diezia/gif-app/static/css/main.3b94cde6.css.map",
-    "main.736a14c4.js.map": "/Diezia/gif-app/static/js/main.736a14c4.js.map"
+    "main.css": "/gif-app/static/css/main.3b94cde6.css",
+    "main.js": "/gif-app/static/js/main.736a14c4.js",
+    "index.html": "/gif-app/index.html",
+    "main.3b94cde6.css.map": "/gif-app/static/css/main.3b94cde6.css.map",
+    "main.736a14c4.js.map": "/gif-app/static/js/main.736a14c4.js.map"
   },
   "entrypoints": [
     "static/css/main.3b94cde6.css",
